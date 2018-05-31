@@ -1,2 +1,3 @@
 # hello-world
-first pogect
+first project
+hello，this is John,IT Is very nice to meet you
